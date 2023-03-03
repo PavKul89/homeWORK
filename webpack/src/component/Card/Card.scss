@@ -1,0 +1,18 @@
+.card {
+    width: 300px;
+    height: 100%;
+    border: 1px solid deeppink;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin: 20px;
+};
+
+.card-header {
+    background-color: aquamarine;
+    padding: 10px;
+};
+
+.card-body {
+    padding: 10px;
+}
